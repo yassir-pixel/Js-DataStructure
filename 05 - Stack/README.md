@@ -1,5 +1,7 @@
 ![stack datastructure](../Utils/stack.jpeg)
 
+![](../Utils/Stack.png)
+
 # JavaScript does not have a built-in Stack class, but you can easily implement one using an Array or a Linked List.
 
 ### caractéristiques 

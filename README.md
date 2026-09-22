@@ -3,6 +3,8 @@
 Array - Object - Set - Map - Stack - Queue's - Linked Lists -  Hash Table - Tree's - Graph's
 
 ### A walkthrough Demo using every Day a Datastructure
+![what is a datastructure](./Utils/what.jpg)
+![why a datastructure](./Utils/Why.jpg)
 
 # 01- Array
 ```

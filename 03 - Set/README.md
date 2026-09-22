@@ -1,3 +1,4 @@
+![set datastructure](../Utils/Set.png)  ![weakSet datastructure](../Utils/WeakSet.png)
 ### caractéristiques 
 1- a set can hold values of different data types but the values are unique and cannot store duplicate value
 

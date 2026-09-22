@@ -3,8 +3,11 @@
 
 ### caractéristiques 
 1 - can store elements of different data types
+
 2 - elements are stored in continuous memory locations 
+
 3 - each element has a unique index
+
 4 - arrays length automatically grow or shrink as you add or remove elements.
 
 ### types

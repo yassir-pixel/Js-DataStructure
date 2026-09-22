@@ -28,9 +28,13 @@
 3 - Typed Array : used for binary value
 
   Int8Array for values between  -128 and 127
+  
   Uint8Array for values between  0 and 255
+  
   Uint16Array for values between 0 and 65535
+  
   Int32Array for values between -2147483648 and 2147483647
+  
   Uint32Array for values between 0 and 4294967295
   and many more ...
 

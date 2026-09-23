@@ -9,3 +9,6 @@
 
 ### built-in methods
 
+28 methods are available for the object serving different purpose
+
+run the file objects.js for a full explanatory using : node objects.js

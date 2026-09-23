@@ -15,4 +15,5 @@
 
 Since the stack is not a built in datathpe in JavaScript it is more ruled by the implémentation of the class interface you implement .
 
+6 core methods are available for the stack serving different purpose
 run the file stacks.js for a full explanatory using : node stacks.js

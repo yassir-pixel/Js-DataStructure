@@ -14,4 +14,5 @@ mozilla
 ### built-in methods
 
 11  methods are available for the map serving different purpose
+
 run the file maps.js for a full explanatory using : node maps.js

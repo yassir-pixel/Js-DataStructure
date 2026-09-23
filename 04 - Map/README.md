@@ -12,3 +12,6 @@ mozilla
 4- Map-vs-Object comparison, a Map contains no keys by default (only what's explicitly inserted), whereas an Object has a prototype that brings in default keys that can accidentally collide with your own; this also makes a Map safer to use with user-supplied keys, since setting user-supplied key/value pairs directly on an Object can enable prototype-pollution style attacks.
 
 ### built-in methods
+
+11  methods are available for the map serving different purpose
+run the file maps.js for a full explanatory using : node maps.js

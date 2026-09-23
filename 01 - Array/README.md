@@ -43,3 +43,6 @@
 
 ### Built-in methods
 
+43 methods are available for the array serving different purpose
+run the file arrays.js for a full explanatory using : node arrays.js
+

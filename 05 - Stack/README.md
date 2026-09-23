@@ -12,3 +12,7 @@
 3- Stacks can grow or shrink dynamically as elements are added or removed
 
 ### Built-in methods
+
+Since the stack is not a built in datathpe in JavaScript it is more ruled by the implémentation of the class interface you implement .
+
+run the file stacks.js for a full explanatory using : node stacks.js

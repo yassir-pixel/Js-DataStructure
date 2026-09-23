@@ -12,3 +12,6 @@
 4- Fast insert/delete, slow random access — inserting or deleting a node can be done efficiently, in constant time, if the position is already known, since it only involves changing pointers rather than shifting elements — but reaching a specific node still requires walking the list from the head, so lookups are linear-time rather than instant like an array index
 
 ### built-in methods 
+JavaScript has no built-in LinkedList — all three variants single , double and circular are patterns you build with plain objects/classes.
+
+run the file linkedlists.js for a full explanatory using : node linkedlists.js

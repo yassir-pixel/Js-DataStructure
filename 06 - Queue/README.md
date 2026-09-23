@@ -13,3 +13,6 @@
 4- Implementation-agnostic — a queue is an abstract data type, not tied to one underlying structure; it can be built on an array, a linked list, or a circular buffer, and the choice affects performance (e.g. Array.shift() in JS is O(n) because every remaining element has to be re-indexed, which is why a linked-list-backed queue is often preferred for frequent dequeues)
 
 ### built-in methods 
+Same as stack: JavaScript has no built-in Queue, CircularQueue, PriorityQueue, or Deque — all four are patterns you implement yourself. Here's the conventional interface for each, since they diverge from each other more than the two stack implementations did.
+
+run the file queues.js for a full explanatory using : node queues.js
